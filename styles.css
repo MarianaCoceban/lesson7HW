@@ -1,0 +1,38 @@
+/*ex.1*/
+
+.square {
+    height: 75px;
+    width: 75px;
+    position: absolute;
+    text-align: right;
+}
+
+.square1 {
+    background-color: rgb(105, 21, 21);
+    z-index: 5;
+}
+
+.square2 {
+    background-color: rgb(28, 172, 216);
+    z-index: 4;
+    left: 30px;
+}
+
+.square3 {
+    background-color: rgb(235, 232, 59);
+    z-index: 3;
+    left: 48px;
+}
+
+.square4 {
+    background-color: rgb(10, 243, 22);
+    z-index: 2;
+    left: 64px;
+}
+
+.square5 {
+    background-color: rgb(202, 7, 121);
+    z-index: 1;
+    left: 80px;
+}
+
